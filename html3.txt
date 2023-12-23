@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> </title>
+</head>
+<body bgcolor="lightgreen">
+<center><img src="farmer.jpg" width="100px" height="100px"></center>
+<p><i><h1>welcome to the agriculture farming </h></i></p>
+<center><button style="color:blue"><u>Home</u></button> <button style="color:blue"><u>About</u></button> <button style="color:blue"><u>contact us</u></button></center>
+<p><i><h2>we are producing natural resources </h2></i></p>
+<hr color="gray"width="200%"size="2%">
+<h3><p style="color:blue">India is currently the world's second largest producer of several dry fruits, agriculture-based textile raw materials, roots and tuber crops, pulses, farmed fish, eggs, coconut, sugarcane and numerous vegetables.</h3></p>
+<hr color="gray"width="200%"size="2%">
+<center><img src="croping.jpg" width="200px" height="300px"><img src="sunset.jpg" width="200px" height="300px"><img src="house.jpg" width="200px" height="300px"></center>
+<center><b><button style="color:blue"><u>view more</u></b></button>
+<center><p><b>find us</b></P></center>
+<body>
+<address>
+<center><p style="color:red"><b>contact us phone:9946578320</b></p></center>
+<center><p style="color:red"><b>email....ssdfdfkjeffk@gmail.com</b></p></center>
+</address>
+</body>
+</body>
+</html>
